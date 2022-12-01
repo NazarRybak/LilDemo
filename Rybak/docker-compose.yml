@@ -12,7 +12,7 @@ services:
             MYSQL_ALLOW_EMPTY_PASSWORD: "no"
             MYSQL_ROOT_PASSWORD: "rootpwd"
             MYSQL_USER: 'testuser'
-            MYSQL_PASSWORD: 'testpassword'
+            MYSQL_PASSWORD: 'testpwd'
             MYSQL_DATABASE: 'testdb'
 
     phpmyadmin:
